@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![GitHub user statistics of me](https://raw.githubusercontent.com/felixdivo/_github-stats/master/generated/overview.svg)
+<!--![GitHub user statistics of me](https://raw.githubusercontent.com/felixdivo/_github-stats/master/generated/overview.svg)-->
 
 <!--
 **felixdivo/felixdivo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
